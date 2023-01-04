@@ -1,0 +1,163 @@
+a {
+    color: #11999E;
+    font-family: 'Montserrat', Verdana, sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #eaF6F6;
+
+}
+
+body {
+    background-color: #EAF6F6;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Montserrat', Verdana, sans-serif;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    margin: 50px 50px 0 50px;
+    padding: 30px
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 400px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    text-shadow: 0px 1px 30px #666666;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+.contact-message {
+    margin: 50px;
+    line-height: 2;
+
+}
+
+.copyright {
+    color: white;
+
+}
+
+.full-stack {
+    text-decoration: underline;
+
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+
+}
+
+h2 {
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+
+h3 {
+color: #11999E;
+
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    height: 0px ;
+    width: 40%;
+
+}
+
+
+
+.middle-container {
+
+}
+
+.mog {
+    height: 600px;
+    width: 500px;
+    position: relative;
+    border-radius: 50%;
+    padding: 100px;
+
+}
+
+.napolean {
+    border-radius: 50%;
+    height: auto;
+    width: 50%;
+    float: right;
+    padding-left: 30px;
+
+}
+
+.pro {
+    text-decoration: underline;
+
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.stepbro {
+    border-radius: 50%;
+    width: 60%;
+    height: auto;
+    float: left;
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+}
+
+.top-container {
+
+
+}
+
+.top-cloud {
+    position: relative;
+    left: 400px;
+    
+}
